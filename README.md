@@ -1,6 +1,6 @@
 # Employee-Managment-System
 
-Emplyee Managment System using Python, HTMLl, PostgreSQL, Flask, Flask-SQLAlchemy.
+Emplyee Managment System using Python, HTML, PostgreSQL, Flask, Flask-SQLAlchemy.
 
 Create Employees and Department table in PostgreSQL by and perform various operations like insert, show_table, update, delete, sort, select using Python, Flask, Flask_SQLAlchemy.
 
