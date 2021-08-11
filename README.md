@@ -12,11 +12,11 @@ Note:
 
 2. app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:password@localhost/Employee_Management'
 
-    In this PostgreSQL connectivity statement use your use your PostgreSQL username, password and database name otherwise this will give you error.
+    In this PostgreSQL connectivity statement use your PostgreSQL username, password and database name otherwise this will give you error.
     
 3. fill your database connectivity information and use this:
 
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://<username>:<password>@localhost/<database_name>'
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://"username":"password"@localhost/"database_name"'
   
  4. If after running code localhost URL not appear in terminal then paste this URl in Browser : http://127.0.0.1:5000/
   
