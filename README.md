@@ -4,7 +4,7 @@ Emplyee Managment System using Python, HTML, PostgreSQL, Flask, Flask-SQLAlchemy
 
 Create Employees and Department table in PostgreSQL by and perform various operations like insert, show_table, update, delete, sort, select using Python, Flask, Flask_SQLAlchemy.
 
-Flask used as an API to connect backend code with HTML webpage, FlaskSQLAlchmy module used to connect database and run query with PostgreSQL.
+Flask used as an API to connect backend Python code with HTML webpage, Flask-SQLAlchmy module used to connect database and run query with PostgreSQL.
 
 
 Note: 
